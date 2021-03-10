@@ -1,7 +1,7 @@
 # Autoboi v1.0
 Auto BOI(Battle of Infinity) Plugin for PhBot
 
-Completes the BOI on Silkroad Online automatically by injecting packages.
+Completes the BOI on Silkroad Online automatically by injecting packets.
 
 Only works for 71-80 and 81-90 and in Donwhang. It is currently fully functioning but I won't update or do bug fixes. It selects the corresponding BOI automatically according to the character level.
 
