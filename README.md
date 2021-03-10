@@ -3,7 +3,7 @@ Auto BOI Plugin for PhBot
 
 Completes the BOI on Silkroad Online automatically by injecting packages.
 
-Only works for 71-80 and 81-90 and in Donwhang. It is currently fully functioning but I won't update or do bug fixes. It selects the corresponding BOI automatically according to the character level. I know the code is redundant but I had only 5-6 hours to spend on this plugin, didn't want to spend much time to make it pretty.
+Only works for 71-80 and 81-90 and in Donwhang. It is currently fully functioning but I won't update or do bug fixes. It selects the corresponding BOI automatically according to the character level.
 
 # Requirements:
 
