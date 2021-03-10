@@ -1,5 +1,5 @@
 # Autoboi v1.0
-Auto BOI Plugin for PhBot
+Auto BOI(Battle of Infinity) Plugin for PhBot
 
 Completes the BOI on Silkroad Online automatically by injecting packages.
 
