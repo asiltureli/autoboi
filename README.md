@@ -12,6 +12,7 @@ Only works for 71-80 and 81-90 and in Donwhang. It is currently fully functionin
 
 # How to use:
 
+- Copy the .py file into your Plugin folder and reload the plugins on bot. If it doesn't work, check requirements.
 - **Solo**: Place your character somewhere near arena manager in Donwhang, just press Start BOI Solo(Button 3) and enjoy
 - **Party**: Same as in Solo, first enter the party master and then party members. !!! The party master will first start when all party members have arrived!!!!!
 
