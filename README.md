@@ -7,7 +7,7 @@ Only works for 71-80 and 81-90 and in Donwhang. It is currently fully functionin
 
 # Requirements:
 
-- PhBot 25.3.3 or higher(You can not inject skill packages with lower versions)
+- PhBot 25.3.3 or higher(You can not inject skill packets with lower versions)
 - PhBot plugin package with Python 3.8+
 
 # How to use:
