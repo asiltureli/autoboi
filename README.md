@@ -23,4 +23,4 @@ Only works for 71-80 and 81-90 and in Donwhang. It is currently fully functionin
 - 3: Start BOI Solo only in Donwhang
 - 4: Start BOI Party(Master), starts the BOI as a master. Use this for the party master. It will enter and wait for all party members to start the battle.
 - 5: Start BOI Party(Master), starts the BOI as a member. Use this for the party members. It will teleport, transform and will look for monsters to attack.
-- 6: Stops the bot. It might take a while for it to stop, since it only sets a stop_flag rather than killing the thread. stop_flag is only caught in loops.
+- 6: Stops the bot. It might take a while for it to join the thread. stop_flag is only caught in loops.
